@@ -1,9 +1,12 @@
 import { Component } from '@angular/core';
+import { PostsComponent } from "../posts/posts.component";
+import { PostComponent } from "../posts/post/post.component";
+import { RouterLink } from '@angular/router';
 
 @Component({
   selector: 'app-blog',
   standalone: true,
-  imports: [],
+  imports: [PostsComponent, RouterLink],
   templateUrl: './blog.component.html',
   styleUrl: './blog.component.css'
 })

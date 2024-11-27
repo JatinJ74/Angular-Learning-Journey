@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Lenovo S series",
+      "content": "Newly launched... "
+    },
+    {
+      "id": "3",
+      "title": "Lenovo Jam series",
+      "content": "Newly launched... "
+    },
+    {
+      "id": "4",
+      "title": "Lenovo S series",
+      "content": "Newly launched... "
+    }
+  ]
+}
